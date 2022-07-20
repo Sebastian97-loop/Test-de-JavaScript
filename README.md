@@ -1,9 +1,14 @@
 # Test-de-JavaScript
 Mi solución a el Test de JavaScript
 
-### 1. ¿Qué es una variable y para qué sirve?
+# **Variables y operaciones**
+
+## 1️. Responde las siguientes preguntas en la sección de comentarios:
+
+### a. ¿Qué es una variable y para qué sirve?
 - Una variable es un espacio en memoria utilizado para guardar algun valor. Podemos entender facilmente una variable representandola como una caja. porque le podemos ingresar los valores o "las cosas" y llevarlas a otra parte de nuestro código.
-### 2. ¿Cuál es la diferencia entre declarar e inicializar una variable?
+- 
+### b. ¿Cuál es la diferencia entre declarar e inicializar una variable?
 
     // declarar una variable
     let variable;
@@ -14,7 +19,7 @@ Mi solución a el Test de JavaScript
     // para hacer este proceso en una sola linea
     let caja = 0;
 
-### 3. ¿Cuál es la diferencia entre sumar números y concatenar strings?
+### c. ¿Cuál es la diferencia entre sumar números y concatenar strings?
 
 
     // sumar numeros
@@ -30,3 +35,30 @@ Mi solución a el Test de JavaScript
     var b = 2;
     var c = a + b;
     console.log("El resultado de c es igual a: " + c);
+    
+### d. ¿Cuál operador me permite sumar o concatenar?
+     // con el sigo +
+
+## 2. Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
+
+- Nombre : **string**
+- Apellido: **string**
+- Nombre de usuario en Platzi: **string**
+- Edad: **number**
+- Correo electrónico: **string**
+- Mayor de edad: **boolean**
+- Dinero ahorrado: **number**
+- Deudas: **number**
+
+## 3. Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios.
+
+
+
+    const nombre = "Sebastian";
+    const apellido "Carrillo";
+    const nombreDeUsuario = "chevyto97";
+    let edad = 25;
+    const correoElectronico = "sebastian1997lml@hotmail.com";
+    let mayorDeEdad = true;
+    let dineroAhorrado = 20.000;
+    let deusas = 100.000;
