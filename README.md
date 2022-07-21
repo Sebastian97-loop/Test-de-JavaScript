@@ -61,4 +61,4 @@ Mi solución a el Test de JavaScript
     const correoElectronico = "sebastian1997lml@hotmail.com";
     let mayorDeEdad = true;
     let dineroAhorrado = 20.000;
-    let deusas = 100.000;
+    let deudas = 100.000;
