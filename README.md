@@ -62,3 +62,13 @@ Mi solución a el Test de JavaScript
     let mayorDeEdad = true;
     let dineroAhorrado = 20.000;
     let deudas = 100.000;
+    
+   
+# funciones
+## 1.  Responde las siguientes preguntas en la sección de comentarios
+
+- ¿Que es una funcion?
+Es un bloque de codigo que nos permite realizar operaciones y pueden ser llamadas en cualquier momento de el codigo
+
+a ¿Cuándo me sirve usar una función en mi código?
+Cuando a la hora de programar queremos tener codigo empaquetado, el cual lo podemos mandar a llamar con una corta accion. Por ejemplo si queremos realizar una suma no tendremos que traer toda la logica que necesita la suma sino que llamamos la funcion que creamos con esa logica.
